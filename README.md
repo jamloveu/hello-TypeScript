@@ -1,2 +1,1 @@
-# hello-TypeScript
-TypeScript 系统教程笔记
+# 贪吃蛇练习
