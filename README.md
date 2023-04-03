@@ -2,5 +2,4 @@
 
 | 项目名称                                                     | 更新时间   | 项目简介                                                     |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| [greedy-snake](https://github.com/jamloveu/hello-TypeScript/tree/greedy-snake) | 2023-03-21 | 贪吃蛇练习：TS + Webpck + Babel + Less                       |
-                                      
+| [greedy-snake](https://github.com/jamloveu/hello-TypeScript/tree/greedy-snake) | 2023-03-21 | 贪吃蛇练习：TS + Webpack + Babel + Less                       |                                
